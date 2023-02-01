@@ -10,3 +10,6 @@ REPO: https://github.com/tejaswigowda/ame220Spring2023
 SYLLABUS: https://github.com/tejaswigowda/ame220Spring2023/blob/main/AME%20220%20Spring%202023.pdf
 
 SLIDES: https://docs.google.com/presentation/d/1TlhSwoBK6CYb6cI93u5nPIxEWyiC0R_5nUhGlWvxKe4
+
+Student ID : 1221931893
+Carolyn Combs
